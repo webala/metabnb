@@ -3,6 +3,7 @@ import './App.css';
 import Call from './components/Call/Call.js';
 import Sponsors from './components/Sponsors/Sponsors.js';
 import MiniStore from './components/MiniStore/MiniStore.js';
+import GiftCards from './components/GiftCards/GiftCards.js';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Call />
       <Sponsors />
       <MiniStore />
+      <GiftCards />
     </div>
   );
 }
