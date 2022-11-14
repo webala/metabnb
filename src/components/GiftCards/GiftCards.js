@@ -4,7 +4,7 @@ import giftCard3 from '../../assets/gift-card-3.png'
 
 function GiftCards() {
   return (
-    <section className='my-20 px-2 flex flex-col md:flex-row md:justify-center items-center bg-secondary text-white py-10'>
+    <section className='mt-20 px-2 flex flex-col md:flex-row md:justify-center items-center bg-secondary text-white py-10'>
         <div className='md:w-1/2 md:mr-20 px-10 flex flex-col md:justify-between items-start'>
             <h1 className='text-xl my-5 md:text-2xl'>Metabnb NFTs</h1>
             <p className='my-5'>Discover out NFT gift cards collection. Loyal customres get amazing gift cards which are traded as NFTs. Thee NFTs gives our customer access to loads of our exclusive services</p>
